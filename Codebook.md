@@ -1,13 +1,15 @@
-Subject_ID
-	Subject ID, integer representation of the participant in the exercise, ranges from 1-30
+####Subject_ID
+Subject ID, integer representation of the participant in the exercise, ranges from 1-30
 
-Activity_Name
-	Type of Activity: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+####Activity_Name
+Type of Activity: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-Activity_ID                
-	Activity ID: integer representation of the activity, ranges from 1-6
+####Activity_ID                
+Activity ID: integer representation of the activity, ranges from 1-6
 
-The remainder of the variables are mean value of the measurements in the Samsung dataset.  For a description of the feature info, please refer to the file feature_info.txt
+
+**The remainder of the variables are mean values, calculated from the measurements in the Samsung dataset.  
+For a description of the feature info, please refer to the file feature_info.txt**
 
 tBodyAcc-mean()-X          
 tBodyAcc-mean()-Y          

@@ -1,6 +1,6 @@
 ####Repo includes the following files
 **run_analysis.R** 
-- R script to create a tidy dataset from the Samsung data.  The Samsung data folder, "UCI HAR Dataset" is assumed to be in the same directory as the script.  
+- R script to create a tidy dataset from the Samsung data.  The Samsung data folder, "UCI HAR Dataset" is assumed to be in the same directory as the script (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 - The following steps are performed in the script
  
   1. Merges the training and the test sets to create one data set.
